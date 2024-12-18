@@ -1,6 +1,6 @@
 # Hi, I'm Carol Zhang 👋✨  
 
-🎉 I love building AI applications and am **actively learning NLP techniques**! 🧠💻  
+🎉 I love building **AI applications** and am **actively learning NLP techniques**! 🧠💻  
 
 🌱 I'm passionate about exploring **AI for Social Good**, and I enjoy working on projects involving:  
 - 🤖 **Natural Language Processing (NLP)**  
