@@ -8,5 +8,4 @@
 - 🤖 **Natural Language Processing (NLP)**  
 - 🛠️ **Multi-Agent Systems**  
 
-📬 You can reach me via [email](mailto:qiz065@ucsd.edu). I’d love to chat! 💌  
 
