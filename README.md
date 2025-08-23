@@ -4,8 +4,8 @@
 🎉 I love building **AI applications** and am **actively learning NLP techniques**! 🧠💻  
 
 🌱 I enjoy working on projects involving:  
-- 🗣️ **Conversational Agents**
-- 🤖 **Natural Language Processing (NLP)**  
-- 🛠️ **Multi-Agent Systems**  
+- 🗣️ **Conversational Agents** 
+- 🛠️ **Multi-Agent Systems**
+- 🤖 **Natural Language Processing (NLP)** 
 
 
