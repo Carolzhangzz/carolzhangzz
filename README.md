@@ -1,4 +1,5 @@
 ### Hi there, I'm Carol Zhang 👋✨  
+![Visitor Count](https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blue)
 
 🎉 I love building **AI applications** and am actively learning **NLP techniques** 🧠💻  
 
@@ -6,7 +7,6 @@
 - 💬 **Conversational Agents**  
 - 🧩 **Multi-Agent Systems**  
 - 🤖 **Natural Language Processing (NLP)**
-- ![Visitor Count](https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blue)
 ---
 
 ### ⚙️ Tech Stack  
