@@ -9,6 +9,19 @@
 - 🤖 **Natural Language Processing (NLP)**
 ---
 
+### 📊 GitHub Stats  
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carolzhangzz&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=tokyonight" />
+</div>
+
+### 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carolzhangzz&theme=react-dark&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+
 ### ⚙️ Tech Stack  
 
 #### 🧠 Machine Learning & NLP
@@ -52,13 +65,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
-
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carolzhangzz&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=tokyonight" />
-</div>
 
 ### 🌐 Let's Connect  
 
