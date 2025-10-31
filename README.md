@@ -55,9 +55,11 @@
 ---
 
 ### 📊 GitHub Stats  
-![Carol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carolzhangzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=radical)
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carolzhangzz&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=tokyonight" />
+</div>
 ---
 
 ### 🗣️ Let's Connect!  
