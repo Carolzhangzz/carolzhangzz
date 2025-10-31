@@ -16,7 +16,7 @@
 ---
 
 🎯 **About Me**  
-My main research interests focus on **AI for Social Good**A and **AHuman-AI Interaction**. 
+My main research interests focus on **AI for Social Good** and **Human-AI Interaction**. 
 I have designed and developed **conversational agents** leveraging NLP techniques to evaluate and intervene user's environmental attitudes and behaviors.
 
 ---
