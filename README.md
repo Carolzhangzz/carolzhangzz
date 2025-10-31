@@ -59,12 +59,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=tokyonight" />
 </div>
 
-### 🗣️ Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Carolzhangzz)  
-[![Website](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://carolzhangzz.github.io)
+### 🌐 Let's Connect  
 
----
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carolzhangzz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://carolzhangzz.github.io)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blue)
 
