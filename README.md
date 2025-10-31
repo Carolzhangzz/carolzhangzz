@@ -1,4 +1,8 @@
-### Hi there, I'm Carol Zhang 👋✨  
+### Hi, I'm Carol Zhang 👋✨   🌐 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://carolzhangzz.github.io)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blue)
 
 🎉 I love building **AI applications** and am actively learning **NLP techniques** 🧠💻  
@@ -65,9 +69,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
-
-### 🌐 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://carolzhangzz.github.io)
