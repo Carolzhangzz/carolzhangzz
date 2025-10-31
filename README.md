@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://carolzhangzz.github.io)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blue)
 
-🎉 I love building **AI applications** and am actively learning **NLP techniques** 🧠💻  
+🎉 I love building **AI applications** and learning **NLP techniques** 🧠💻  
 
 🌱 I enjoy working on projects involving:  
 - 💬 **Conversational Agents**  
