@@ -51,13 +51,13 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black)
+
 ### 📊 GitHub Stats  
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Carolzhangzz&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolzhangzz&layout=compact&theme=tokyonight" />
 </div>
----
 
 ### 🗣️ Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)  
