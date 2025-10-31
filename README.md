@@ -8,8 +8,9 @@
 🎉 I love building **AI applications** and learning **NLP techniques** 🧠💻  
 
 🌱 I enjoy working on projects involving:  
+- 💬 **World Model**  
 - 💬 **Conversational Agents**  
-- 🧩 **Multi-Agent Systems**  
+- 🧩 **Multi-Agent System**  
 - 🤖 **Natural Language Processing (NLP)**
 ---
 
