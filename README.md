@@ -51,7 +51,6 @@ I have designed and developed **conversational agents** leveraging NLP technique
 ![BERT](https://img.shields.io/badge/-BERT-0A66C2?style=flat-square)
 ![GPT](https://img.shields.io/badge/-GPT-7F7FFF?style=flat-square)
 
----
 
 #### 🌐 Web, Game & System Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -68,8 +67,6 @@ I have designed and developed **conversational agents** leveraging NLP technique
 ![Phaser](https://img.shields.io/badge/-Phaser-FF69B4?style=flat-square)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
----
-
 #### 🧩 Data Engineering & Visualization
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -80,8 +77,6 @@ I have designed and developed **conversational agents** leveraging NLP technique
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF?style=flat-square)
-
----
 
 #### 🛠️ Tools & Platforms
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -99,8 +94,6 @@ I have designed and developed **conversational agents** leveraging NLP technique
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
-
----
 
 #### 🎨 Design & UX
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
