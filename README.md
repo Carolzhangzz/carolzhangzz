@@ -27,11 +27,6 @@ I have designed and developed **conversational agents** leveraging NLP technique
 - 🧩 *Multi-Agent Systems* – enabling collaboration and collective intelligence  
 - 🤖 *Natural Language Processing (NLP)* – understanding and generating human language  
 
-### 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carolzhangzz&theme=react-dark&bg_color=0D1117&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
 
 ### ⚙️ Tech Stack  
 
