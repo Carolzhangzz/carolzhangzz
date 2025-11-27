@@ -25,7 +25,7 @@ I have designed and developed **conversational agents** leveraging NLP technique
 - 🧠 *World Models* – understand, simulate, and reason about real-world dynamics
 - 💬 *Conversational Agents* – designing dialogue systems that adapt and empathize  
 - 🧩 *Multi-Agent Systems* – enabling collaboration and collective intelligence  
-- 🤖 *Natural Language Processing (NLP)* – understanding and generating human language  
+
 
 
 ### ⚙️ Tech Stack  
