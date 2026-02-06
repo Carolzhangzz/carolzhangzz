@@ -2,4 +2,4 @@
 
 My work focus on **Human–AI Interaction** and **AI for Social Good**. 
 
-I have designed and developed conversational agents leveraging NLP techniques to evaluate and intervene users’ environmental attitudes and behaviors.
+I have designed and developed conversational agents leveraging NLP and Prompt Engineering techniques to evaluate and intervene users’ environmental attitudes and behaviors.
