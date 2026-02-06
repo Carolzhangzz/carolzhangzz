@@ -1,6 +1,6 @@
 ##  Research Focus
 
-My work centers on **Human–AI Interaction** and **AI for Social Good**. 
+My work focus on **Human–AI Interaction** and **AI for Social Good**. 
 
 I have designed and developed conversational agents leveraging NLP techniques to evaluate and intervene users’ environmental attitudes and behaviors.
 
