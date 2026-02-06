@@ -1,4 +1,4 @@
-## 🧭 Research Focus
+##  Research Focus
 
 My work centers on **Human–AI Interaction** and **AI for Social Good**, 
 with a focus on designing intelligent systems that are socially aware, 
