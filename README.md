@@ -22,7 +22,6 @@ CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://desi
 
 Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
-Currently exploring: `Reinforcement Learning` · `World Models`
 
 <div align="center">
 
