@@ -1,9 +1,10 @@
 
-<div align="center">
 
-# Hey, I'm Carol 👋
+CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow and [City University of Hong Kong](https://www.cityu.edu.hk/) with Dr. Ray LC.
 
-**I build games where the AI is the one prompting *you*.**
+Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
+
+
 
 `Human-AI Interaction` · `AI for Social Good` · `Conversational Agents` · `Serious Games`
 
@@ -14,12 +15,3 @@
 <img src="https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blueviolet" alt="Profile views"/>
 
 </div>
-
----
-
-### 🧠 What I Do
-
-CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow and [City University of Hong Kong](https://www.cityu.edu.hk/) with Dr. Ray LC.
-
-Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
-
