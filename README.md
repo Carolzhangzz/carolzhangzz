@@ -11,6 +11,7 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-qinshiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
 [![Twitter](https://img.shields.io/badge/-@Carol__Zhang1027-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Carol_Zhang1027)
+<img src="https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blueviolet" alt="Profile views"/>
 
 </div>
 
@@ -22,9 +23,3 @@ CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://desi
 
 Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blueviolet" alt="Profile views"/>
-
-</div>
