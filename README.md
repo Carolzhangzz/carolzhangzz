@@ -20,8 +20,6 @@
 
 CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow and [City University of Hong Kong](https://www.cityu.edu.hk/) with Dr. Ray LC.
 
-I design AI systems that don't just *respond* — they **intervene**. My conversational agents use NLP and prompt engineering to nudge people toward better environmental decisions, wrapped in games compelling enough that players don't realize they're being studied.
-
 Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
 Currently exploring: `Reinforcement Learning` · `World Models`
