@@ -8,7 +8,7 @@
 `Human-AI Interaction` · `AI for Social Good` · `Conversational Agents` · `Serious Games`
 
 [![Website](https://img.shields.io/badge/-carolzhangzz.github.io-000?style=flat-square&logo=google-chrome&logoColor=white)](https://carolzhangzz.github.io)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-qinshiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
 [![Twitter](https://img.shields.io/badge/-@Carol__Zhang1027-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Carol_Zhang1027)
 
@@ -18,9 +18,11 @@
 
 ### 🧠 What I Do
 
-I'm a CS Master's student at **UC San Diego**, working at the [Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow.
+CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow and [City University of Hong Kong](https://www.cityu.edu.hk/) with Dr. Ray LC.
 
 I design AI systems that don't just *respond* — they **intervene**. My conversational agents use NLP and prompt engineering to nudge people toward better environmental decisions, wrapped in games compelling enough that players don't realize they're being studied.
+
+Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
 Currently exploring: `Reinforcement Learning` · `World Models`
 
