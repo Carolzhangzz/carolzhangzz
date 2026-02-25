@@ -24,24 +24,7 @@ I design AI systems that don't just *respond* — they **intervene**. My convers
 
 Currently exploring: `Reinforcement Learning` · `World Models`
 
----
-
-### 🛠️ Tech Stack
-
-```text
-Languages    JavaScript · Python · HTML/CSS · SQL
-AI/ML        Claude API · OpenAI · Gemini · Stable Diffusion · LangChain
-Frontend     React · Phaser 3 · Canvas API
-Backend      Node.js · Express · PostgreSQL
-Research     NLP · Prompt Engineering · Conversational AI · HCI Methods
-```
-
----
-
 <div align="center">
-
-*"The best AI research happens when you stop asking 'what can AI do?'*
-*and start asking 'what should AI make humans do?'"*
 
 <img src="https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blueviolet" alt="Profile views"/>
 
