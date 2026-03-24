@@ -6,7 +6,7 @@ Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
 
 
-`Human-AI Interaction` · `AI for Social Good` · `Conversational Agents` · `Serious Games`
+`Human-AI Interaction` · `World Models` ·
 
 [![Website](https://img.shields.io/badge/-carolzhangzz.github.io-000?style=flat-square&logo=google-chrome&logoColor=white)](https://carolzhangzz.github.io)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ)
