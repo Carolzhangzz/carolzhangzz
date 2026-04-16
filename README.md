@@ -1,12 +1,11 @@
+### Hi, I'm Carol
 
+Incoming CS Ph.D. @ Florida State University, advised by [Prof. Yifang Wang](https://wangyifang.top/)
 
+M.S. in Computer Science, UC San Diego
 
+**Research:** Human-AI Interaction, AI for Social Good, Behavior Analysis
 
-Incoming CS Phd. @fsu
-[![Website](https://img.shields.io/badge/-carolzhangzz.github.io-000?style=flat-square&logo=google-chrome&logoColor=white)](https://carolzhangzz.github.io)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/-qinshiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/qinshiz)
-[![Twitter](https://img.shields.io/badge/-@Carol__Zhang1027-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Carol_Zhang1027)
-<img src="https://komarev.com/ghpvc/?username=Carolzhangzz&style=flat-square&color=blueviolet" alt="Profile views"/>
+**Publications:** CHI '24, CHI '25, IEEE VL/HCC '25
 
-</div>
+[Website](https://carolzhangzz.github.io) | [Google Scholar](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ) | [LinkedIn](https://linkedin.com/in/qinshiz) | [Twitter](https://twitter.com/Carol_Zhang1027)
