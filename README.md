@@ -1,12 +1,7 @@
 
 
-CS Master's @ **UC San Diego** '25. Previously at [UCSD Design Lab](https://designlab.ucsd.edu/) with Prof. Steven Dow and [City University of Hong Kong](https://www.cityu.edu.hk/) with Dr. Ray LC.
-
-Published at **CHI '24 · CHI '25 · IEEE VL/HCC '25**
 
 
-
-`Human-AI Interaction` · `World Models` ·`Multi-Modal`
 
 [![Website](https://img.shields.io/badge/-carolzhangzz.github.io-000?style=flat-square&logo=google-chrome&logoColor=white)](https://carolzhangzz.github.io)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Zo0HnLwAAAAJ)
