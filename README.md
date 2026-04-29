@@ -4,7 +4,7 @@ Incoming CS Ph.D. @ Florida State University, advised by [Prof. Yifang Wang](htt
 
 M.S. in Computer Science, UC San Diego
 
-**Research:** Human-AI Interaction, AI for Social Good, Behavior Analysis
+**Research:** Human-AI Interaction 
 
 **Publications:** CHI '24, CHI '25, IEEE VL/HCC '25
 
