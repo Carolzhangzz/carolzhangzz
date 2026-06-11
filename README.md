@@ -1,8 +1,6 @@
 ### Hi, I'm Carol
 
-Incoming CS Ph.D. @ Florida State University, advised by [Prof. Yifang Wang](https://wangyifang.top/)
-
-M.S. in Computer Science, UC San Diego
+CS Ph.D. @ Florida State University, advised by [Prof. Yifang Wang](https://wangyifang.top/)
 
 **Research:** Human-AI Interaction 
 
