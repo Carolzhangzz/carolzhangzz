@@ -1,4 +1,4 @@
-### Hi, I'm Carol
+### Hi, I'm Qinshi
 
 CS Ph.D. @ Florida State University, advised by [Prof. Yifang Wang](https://wangyifang.top/)
 
